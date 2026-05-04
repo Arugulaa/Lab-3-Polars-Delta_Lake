@@ -1,6 +1,7 @@
 data/
 delta/
-logs/
+logs/*
+!logs/.gitkeep
 .venv/
 __pycache__/
 *.pyc
