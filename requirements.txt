@@ -1,0 +1,7 @@
+polars
+deltalake
+scikit-learn
+lightgbm
+mlflow==2.12.1
+pandas
+pyarrow
